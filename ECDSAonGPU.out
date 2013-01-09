@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{VANET Primitives}{}% 2
+\BOOKMARK [1][-]{section.3}{Cryptographic Primitives}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{ECDSA Signature Generation \046 Verification}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{ECDSA Security \046 Efficiency}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Hardware Primitives}{}% 6
+\BOOKMARK [1][-]{section.5}{ECDSA Implementation \046 Optimization}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Core Operations \046 Optimizations}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{CUDA Deployment}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Benchmarking \046 Architecture}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Benchmarking Results}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.2}{Discussion on Architecture}{section.6}% 12
+\BOOKMARK [1][-]{section.7}{Conclusions}{}% 13
+\BOOKMARK [1][-]{section*.1}{References}{}% 14
